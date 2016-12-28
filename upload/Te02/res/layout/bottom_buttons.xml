@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:orientation="horizontal"
+    android:weightSum="4.0">
+    <!--   android:layout_weight="1.0"
+    <Button
+        android:id="@+id/btn1"
+        android:layout_gravity="bottom"
+        android:gravity="bottom"
+        android:layout_width="0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" />
+        -->
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:text="静态\n地图"/>
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"    
+        android:text="AR\n增强" />
+    <Button
+        android:id="@+id/btn4" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0" 
+        android:text="信息\n发布" />
+
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_weight="1.0"  
+        android:text="通用\n功能" />
+
+</LinearLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/edit1"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_gravity="bottom"
+        android:gravity="bottom"
+        android:hint="实时信息" />
+    <EditText
+        android:id="@+id/edit2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit1"
+        android:hint="建筑物号" />
+    <Button 
+		android:id="@+id/but1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit2"
+        android:hint="提交"
+        />
+    <Button 
+		android:id="@+id/but2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/but1"
+        android:hint="发布"
+        />
+
+    <LinearLayout
+        android:id="@+id/rc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:gravity="right">
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00000000" />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="条" />
+
+        <Button
+            android:id="@+id/but3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="上一条" />
+
+        <Button
+            android:id="@+id/but4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="下一条" />
+
+    </LinearLayout>
+    
+</RelativeLayout>
