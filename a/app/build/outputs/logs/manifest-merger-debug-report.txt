@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from D:\Android\demgps\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\demgps\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Android\demgps\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\demgps\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Android\demgps\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\demgps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\Android\demgps\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\demgps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\Android\demgps\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\demgps\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:11:2-78
+	android:name
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:11:19-75
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:12:2-64
+	android:name
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:12:19-61
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:13:2-72
+	android:name
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:13:19-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:14:2-73
+	android:name
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:14:19-70
+application
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:16:5-31:19
+	android:label
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:18:9-45
+	android:theme
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.ljq.demgps.MainActivity
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:22:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:27:27-74
+service#com.ljq.demgps.GpsService
+ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:30:9-83
+	android:label
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:30:18-39
+	android:name
+		ADDED from D:\Android\demgps\app\src\main\AndroidManifest.xml:30:40-80

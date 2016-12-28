@@ -1,0 +1,7 @@
+#Mon Dec 26 10:20:56 CST 2016
+base.0=D\:\\Android\\demgps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b493072a589c53ca557c367a37f87ae2140c0abd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android\\demgps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4787f0c7e83125d5b237de0df71d70efb7222d97\\classes.dex
+base.1=D\:\\Android\\demgps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4787f0c7e83125d5b237de0df71d70efb7222d97
+file.0=D\:\\Android\\demgps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b493072a589c53ca557c367a37f87ae2140c0abd\\classes.dex

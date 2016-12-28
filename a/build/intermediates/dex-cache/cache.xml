@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\demgps\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="019402de9fe1e84ad3080944bd8bb03356bf7c3d">
+        <dex dex="D:\Android\demgps\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4787f0c7e83125d5b237de0df71d70efb7222d97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\demgps\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="987e7cd3841a470cb56f177976a26c252d15cf82">
+        <dex dex="D:\Android\demgps\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b493072a589c53ca557c367a37f87ae2140c0abd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android\demgps\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f15a0bfe038d28bcbabcd17b131818a88627e3f2\classes.dex" />
+    </item>
+
+</items>

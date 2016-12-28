@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="7193761680164"
+    token="849067165817759567"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="663" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="69" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="D:\Android\demgps\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="78983554887188"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Android\demgps\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
